@@ -1,0 +1,73 @@
+h1{
+    color:#c92e2e;
+
+    padding-left: 39%;
+}
+/* *{
+   
+}*/
+
+.header *{
+
+    background-image: url(93190576-abstract-colorful-festival-background-color-yellow-green-blue-red-and-orange-beautiful-for-template-.jpg);
+    border:solid;
+    justify-content: space-around;
+
+}
+
+.grid{
+
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   
+}
+
+.item{
+
+position: relative;
+
+
+}
+.item p{
+position: absolute;
+top:85%;
+left: 20%;
+transform: translate(-50%,-50%) ;
+}
+
+p,h2{
+
+    text-align: center;
+}
+
+a:hover { 
+    background-color: red;
+ }
+
+ body{
+    background-image: url(abstract-polygonal-background-carduus.jpg);
+
+background-repeat: no-repeat;
+
+background-position:top;
+background-attachment: fixed;
+
+background-size : 100% 100%; 
+
+
+}
+
+
+
+
+
+
+.menu a{ 
+    margin-left: 50;
+}
+
+
+
+
+
